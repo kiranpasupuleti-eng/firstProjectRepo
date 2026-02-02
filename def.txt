@@ -1,0 +1,4 @@
+store 19
+
+n=int(input("Enter a number:"))
+print("positive" if n%2==0 else "Negative")

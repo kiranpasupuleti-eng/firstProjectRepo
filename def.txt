@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream
 story 21
 
 name=input("Enter a name:")
 print(name)
+=======
+story 20
+
+num=int(input("Enter a number"))
+print(num)
+>>>>>>> Stashed changes
